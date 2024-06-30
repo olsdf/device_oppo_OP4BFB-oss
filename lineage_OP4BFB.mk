@@ -16,7 +16,7 @@ $(call inherit-product, device/oppo/OP4BFB/device.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := OP4BFB
-PRODUCT_NAME := omni_OP4BFB
+PRODUCT_NAME := lineage_OP4BFB
 PRODUCT_BRAND := OPPO
 PRODUCT_MODEL := CPH2083
 PRODUCT_MANUFACTURER := OPPO
