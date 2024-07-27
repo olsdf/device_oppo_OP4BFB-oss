@@ -98,3 +98,7 @@ TARGET_USERIMAGES_USE_F2FS := true
 
 # SPL
 VENDOR_SECURITY_PATCH := 2022-01-05
+
+# VINTF
+DEVICE_MANIFEST_FILE := $(DEVICE_PATH)/configs/manifests/manifest.xml
+DEVICE_MATRIX_FILE := $(DEVICE_PATH)/configs/manifests/compatibility_matrix.xml
