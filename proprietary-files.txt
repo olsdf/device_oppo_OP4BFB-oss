@@ -870,8 +870,6 @@ vendor/etc/init/vendor.mediatek.hardware.nvram@1.1-sevice.rc
 vendor/etc/init/vendor.mediatek.hardware.power@2.1-init.rc
 vendor/etc/init/vendor.mediatek.hardware.power@2.1-service.rc
 vendor/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc
-vendor/etc/media_codecs_mediatek_audio.xml
-vendor/etc/media_codecs_mediatek_video.xml
 vendor/lib/hw/vendor.mediatek.hardware.dfps@1.0-impl.so
 vendor/lib/hw/vendor.mediatek.hardware.mms@1.5-impl.so
 vendor/lib/hw/vendor.mediatek.hardware.mtkcodecservice@1.1-impl.so
@@ -1022,8 +1020,6 @@ vendor/etc/init/vendor.oppo.hardware.hypnus@1.0-service.rc
 vendor/etc/init/vendor.oppo.hardware.ktv@1.0-service.rc
 vendor/etc/init/vendor.oppo.hardware.oiface@1.0-service.rc
 vendor/etc/mddb/DbgInfo_LR12A.R2.PIE.P35.PR1.TC16.SP_OPPO6765_19451_MOLY_LR12A_R2_PIE_P35_PR1_TC16_SP_V1_P112_2021_12_10_06_16_1_ulwctg_n
-vendor/etc/media_codecs_oppo_performance.xml
-vendor/etc/media_codecs_oppo_video.xml
 vendor/etc/permissions/vendor-oppo-engnative-engineer.xml
 vendor/etc/permissions/vendor-oppo-hardware.cryptoeng.xml
 vendor/etc/test_path/oppo6771_17061/mixer_paths.xml
