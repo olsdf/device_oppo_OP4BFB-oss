@@ -1,4 +1,4 @@
-TWRP device tree for OPPO A12/A11k
+Device tree for OPPO A12/A11k
 ===========================================
 
 OPPO A12/A11k (codenamed _"OP4BFB"_) is a budget range smartphone from OPPO, announced in April 2020.
